@@ -1,6 +1,14 @@
 ﻿using System;
 using System.Collections.Specialized;
 using System.Diagnostics;
+/*
+ * FritzControl .NET6
+ * An experimental code to enable or disable static routes in a Fritzbox
+ * 
+ * speckmops.de
+ * https://github.com/Speckmops/FritzControl
+ */
+
 using System.Net;
 using System.Security.Cryptography;
 using System.Text;
